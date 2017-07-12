@@ -1,7 +1,10 @@
 import java.util.Scanner;
 
 /**
- *
+ *Count the number of valleys a hiker walked.
+ *input on line 1 - n number of steps eg. 4
+ *input on line 2 - actual steps eg. uddu
+ *output - print the number of valleys eg. 1
  * @author admin
  */
 public class Solution {
