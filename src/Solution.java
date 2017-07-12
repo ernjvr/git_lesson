@@ -2,6 +2,8 @@ import java.util.Scanner;
 
 /**
  *Count the number of valleys a hiker walked.
+ *Hiker starts at sea level. Everytime hiker steps below sea level
+ * and returns to sea level, it counts as 1 valley count.
  *input on line 1 - n number of steps eg. 4
  *input on line 2 - actual steps eg. uddu
  *output - print the number of valleys eg. 1
