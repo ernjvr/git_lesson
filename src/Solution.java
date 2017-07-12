@@ -41,6 +41,7 @@ public class Solution {
                     seaLevel--;
                     break;
                 default:
+					//only u and d allowed
                     throw new AssertionError();
             }
         }
