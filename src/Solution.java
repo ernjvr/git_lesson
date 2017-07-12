@@ -13,6 +13,7 @@ public class Solution {
 
     /**
      * @param args the command line arguments
+	 * no command line args needed.
      */
     public static void main(String[] args) {
         final Scanner scanner = new Scanner(System.in);
